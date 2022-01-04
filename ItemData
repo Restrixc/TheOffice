@@ -1,8 +1,9 @@
-{"Survivor_Abilities":["Survivor_Ability_My_Own_Way":["Name":"My own way","Description":"You don't need anyone by your side!","Buffs":["+15% Looting / Gathering speed when solo","+5% Speed when injured or dying","-85% buff effects from teammates"],"Rarity":"Rare"],
-"Survivor_Ability_Have_At_Me":["Name":"Have at me!","Description":"I'm not locked in here with you, you're locked in here with me","Buffs":["+Ability to Headbutt enemies","+15% more damage upon attacking","-10% Movement Speed at all levels","-25% Stun duration upon attack"],"Rarity":"Rare"]
-],
-"Killer_Abilities":["Killer_Ability_I_Can_Die_Tomorrow":["Name":"I can die tomorrow!","Description":"We can die another day, just not now!","Buffs":["+10% resistance to damage","+Recover 25% of your health one time after going below 25% health", "-30% Stun Resistance"],"Rarity":"Uncommon"]
-],
-"Music_Kits":["Music_Kit_No_Hero":["Name":"No Hero - FNF Pibby","Description":"FNFvsFinnandJakeHighEffort","songid":"8065524255","Rarity":"Rare"],
-"Music_Kit_The_Day":["Name":"The Day (Reactive)","Description":"The Day, adds a custom intro to the beginning of the game","songid":"882077913","Rarity":"Epic"],
-"Music_Kit_Brotherly_Bond":["Name":"Brotherly Bond":"FNFvsFinnandJakeHighEffort","songid":"882077913","Rarity":"Rare"]]}
+{"Survivor_Abilities":[
+  "Survivor_Ability_My_Own_Way":{"Name":"My own way","Description":"You don't need anyone by your side!","Buffs":["+15% Looting / Gathering speed when solo","+5% Speed when injured or dying","-85% buff effects from teammates"],"Rarity":"Rare"},
+  "Survivor_Ability_Have_At_Me":{"Name":"Have at me!","Description":"I'm not locked in here with you, you're locked in here with me","Buffs":["+Ability to Headbutt enemies","+15% more damage upon attacking","-10% Movement Speed at all levels","-25% Stun duration upon attack"],"Rarity":"Rare"}],
+
+"Killer_Abilities":["Killer_Ability_I_Can_Die_Tomorrow":{"Name":"I can die tomorrow!","Description":"We can die another day, just not now!","Buffs":["+10% resistance to damage","+Recover 25% of your health one time after going below 25% health", "-30% Stun Resistance"],"Rarity":"Uncommon"}],
+
+"Music_Kits":["Music_Kit_No_Hero":{"Name":"No Hero - FNF Pibby","Description":"FNFvsFinnandJakeHighEffort","songid":"8065524255","Rarity":"Rare"},
+  "Music_Kit_The_Day":{"Name":"The Day (Reactive)","Description":"The Day, adds a custom intro to the beginning of the game","songid":"882077913","Rarity":"Epic"},
+  "Music_Kit_Brotherly_Bond":{"Name":"Brotherly Bond":"FNFvsFinnandJakeHighEffort","songid":"882077913","Rarity":"Rare"}]}
