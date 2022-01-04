@@ -1,16 +1,16 @@
 {"01/4/22":[
-  "Daily1":"Music_Kit_No_Hero",
-  "Daily2":"Music_Kit_The_Day",
-  "Daily3":"Survivor_Ability_My_Own_Way",
-  "Daily4":"Survivor_Ability_Have_At_Me",
-  "Weekly1":"Music_Kit_Brotherly_Bond",
-  "Weekly2":"Killer_Ability_I_Can_Die_Tomorrow"
+  {"Daily1":"Music_Kit_No_Hero"},
+  {"Daily2":"Music_Kit_The_Day"},
+  {"Daily3":"Survivor_Ability_My_Own_Way"},
+  {"Daily4":"Survivor_Ability_Have_At_Me"},
+  {"Weekly1":"Music_Kit_Brotherly_Bond"},
+  {"Weekly2":"Killer_Ability_I_Can_Die_Tomorrow"}
 ],
 "01/5/22":[
-  "Daily1":"Music_Kit_No_Hero",
-  "Daily2":"Music_Kit_The_Day",
-  "Daily3":"Survivor_Ability_My_Own_Way",
-  "Daily4":"Survivor_Ability_Have_At_Me",
-  "Weekly1":"Music_Kit_Brotherly_Bond",
-  "Weekly2":"Killer_Ability_I_Can_Die_Tomorrow"
+  {"Daily1":"Music_Kit_No_Hero"},
+  {"Daily2":"Music_Kit_The_Day"},
+  {"Daily3":"Survivor_Ability_My_Own_Way"},
+  {"Daily4":"Survivor_Ability_Have_At_Me"},
+  {"Weekly1":"Music_Kit_Brotherly_Bond"},
+  {"Weekly2":"Killer_Ability_I_Can_Die_Tomorrow"}
 ]}
