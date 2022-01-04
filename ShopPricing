@@ -1,0 +1,8 @@
+{"Common":["Color":[226,226,226],"ItemPrices":["SurvivorAbility":100,"KillerAbility":100,"MusicKit":350,"OfficeArea":600]],
+"Uncommon":["Color":[156,226,130],"ItemPrices":["SurvivorAbility":200,"KillerAbility":200,"MusicKit":400,"OfficeArea":800]],
+"Rare":["Color":[86,149,226],"ItemPrices":["SurvivorAbility":500,"KillerAbility":500,"MusicKit":800,"OfficeArea":1200]],
+"Epic":["Color":[112,0,168],"ItemPrices":["SurvivorAbility":800,"KillerAbility":800,"MusicKit":1500,"OfficeArea":1500]],
+"Legendary":["Color":[255,140,0],"ItemPrices":["SurvivorAbility":1200,"KillerAbility":1200,"MusicKit":1800,"OfficeArea":2000]],
+"Irregualy":["Color":[255,0,0],"ItemPrices":["SurvivorAbility":1500,"KillerAbility":1500,"MusicKit":2400,"OfficeArea":3500]],
+"Unusual":["Color":[131,13,119],"ItemPrices":["SurvivorAbility":2000,"KillerAbility":2000,"MusicKit":3000,"OfficeArea":4000]],
+"BugCatcher":["Color":[255,255,0],"ItemPrices":["SurvivorAbility":-1,"KillerAbility":-1,"MusicKit":-1,"OfficeArea":-1]]
