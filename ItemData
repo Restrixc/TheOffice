@@ -50,8 +50,8 @@
       "Rarity": "Epic"
     },
     "Music_Kit_Brotherly_Bond": {
-      "Name": null,
-      "Brotherly Bond": "FNFvsFinnandJakeHighEffort",
+      "Name": "Brotherly Bond",
+      "Description": "FNFvsFinnandJakeHighEffort",
       "songid": "882077913",
       "Rarity": "Rare"
     }
